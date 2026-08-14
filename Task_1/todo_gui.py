@@ -5,7 +5,7 @@ import os
 
 
 # -----------------------------
-# File name for saving tasks
+
 # -----------------------------
 
 FILE_NAME = "tasks.json"
