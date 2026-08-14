@@ -285,7 +285,6 @@ add_button.grid(
 
 
 # -----------------------------
-# Task table
 # -----------------------------
 
 columns = ("No", "Task", "Status")
