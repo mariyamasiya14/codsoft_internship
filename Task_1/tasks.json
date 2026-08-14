@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Excel spreadsheet",
+        "completed": false
+    },
+    {
+        "task": "Full Stack Web Development",
+        "completed": true
+    },
+    {
+        "task": "SQL Practice",
+        "completed": false
+    }
+]
